@@ -10,3 +10,5 @@ class rockpaper
 			   console.log(computerChoice)	   
    }
 }
+
+// Let's try again, Sami, soon
